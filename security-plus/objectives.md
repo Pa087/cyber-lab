@@ -4,8 +4,7 @@
 **Ritiro della versione 701:** 11 giugno 2027 — da riverificare su comptia.org prima di comprare il voucher\
 **Data esame fissata:** ____
 
-**Fonte delle diciture:** PDF ufficiale degli exam objectives (SY0-701, V7) da comptia.org.
-Le diciture esatte in inglese vanno copiate da lì: sono le stesse parole che si cercano nei video di Professor Messer.
+**Fonte delle diciture:** PDF ufficiale degli exam objectives (SY0-701, V7) da [comptia.org](https://www.comptia.org/en-us/certifications/security/).
 
 ## Come si usa
 
