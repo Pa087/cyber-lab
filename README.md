@@ -1,6 +1,6 @@
 # cyber-lab
 
-Appunti e laboratori del mio percorso verso la cybersecurity (SOC analyst).
+Appunti del mio percorso verso la cybersecurity (SOC analyst).
 
 Lavoro nell'amministrazione e nell'IT di una farmacia dal 2014. Ho una LPIC-1 e un master in cybersecurity del 2023. Sto preparando la CompTIA Security+ (SY0-701) e documento qui tutto quello che faccio: stanze TryHackMe, home lab, note tecniche.
 
