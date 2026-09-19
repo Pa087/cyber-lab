@@ -5,8 +5,8 @@ Questa pagina descrive cosa gestisco, non come è configurata la rete del mio da
 Nessun indirizzo, nessun nome di fornitore, nessuna credenziale.
 
 **Periodo:** 2014 – oggi\
-**Utenti serviti:** ____\
-**Postazioni e dispositivi:** ____
+**Utenti serviti:** 7\
+**Postazioni e dispositivi:** 10
 
 ---
 
@@ -16,8 +16,6 @@ Nessun indirizzo, nessun nome di fornitore, nessuna credenziale.
 - Stampanti (di rete e locali): installazione, driver, risoluzione dei guasti
 - Sostituzione hardware e migrazione dati fra postazioni
 
-**Da riempire:** un caso concreto, con il problema, cosa ho provato e come l'ho risolto.
-
 ---
 
 ## Rete
@@ -25,8 +23,6 @@ Nessun indirizzo, nessun nome di fornitore, nessuna credenziale.
 - Troubleshooting di connettività: apparati, cablaggio, DHCP, DNS
 - Diagnosi dell'origine del guasto fra rete interna, linea del provider e software house
 - Accesso al firewall limitato ad alcune operazioni; la configurazione è in carico a un fornitore esterno
-
-**Da riempire:** un guasto di rete che ho isolato da solo, e come.
 
 ---
 
@@ -42,8 +38,6 @@ Nessun indirizzo, nessun nome di fornitore, nessuna credenziale.
 
 - Backup della documentazione amministrativa: procedura, verifica, ripristini
 - Il backup principale del gestionale è in carico alla software house
-
-**Da riempire:** un ripristino che ho eseguito davvero, e cosa ho imparato.
 
 ---
 
