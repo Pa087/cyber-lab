@@ -1,15 +1,19 @@
 # cyber-lab
 
-Appunti del mio percorso verso la cybersecurity (SOC analyst).
+Appunti del mio percorso verso un ruolo da **SOC Analyst L1**.
 
-Lavoro nell'amministrazione e nell'IT di una farmacia dal 2014. Ho una LPIC-1 e un master in cybersecurity del 2023. Sto preparando la CompTIA Security+ (SY0-701) e documento qui tutto quello che faccio: stanze TryHackMe, home lab, note tecniche.
+Dal 2014 sono il riferimento IT di una farmacia: postazioni Windows, terminali di cassa, rete, account e permessi, backup, supporto agli utenti.
+Ho la LPIC-1, il badge Cisco CyberOps Associate e un master in cybersecurity (ELIS, 2023).
+Sto preparando la CompTIA Security+ (SY0-701) e faccio laboratori SOC su TryHackMe.
+
+Cerco un ruolo junior in SOC, IT Support / Help Desk o NOC, in tutta Italia o da remoto.
+Profilo LinkedIn: [linkedin.com/in/paolo-malatesta-231b25193](https://www.linkedin.com/in/paolo-malatesta-231b25193/)
 
 ## Indice
 
-- [`infrastruttura.md`](infrastruttura.md) — i sistemi che gestisco al lavoro
+- [`infrastruttura.md`](infrastruttura.md) — cosa gestisco al lavoro
 - [`security-plus/`](security-plus/) — checklist degli objectives SY0-701 e note di studio
 - [`tryhackme/`](tryhackme/) — una nota per stanza
-- [`homelab/`](homelab/) — Wazuh, VM, configurazioni
 
 ## Come sono scritte le note
 
