@@ -2,7 +2,6 @@
 
 **Esame:** SY0-701 · 90 minuti · massimo 90 domande · soglia 750/900 · solo in inglese\
 **Ritiro della versione 701:** 11 giugno 2027 — da riverificare su comptia.org prima di comprare il voucher\
-**Data esame fissata:** ____
 
 **Fonte delle diciture:** PDF ufficiale degli exam objectives (SY0-701, V7) da [comptia.org](https://www.comptia.org/en-us/certifications/security/).
 
