@@ -78,4 +78,7 @@ nessun indirizzo, nessun nome di fornitore, nessuna credenziale.
 - Chiudo un intervento con una verifica funzionale reale (una ricetta elaborata, una stampa, una vendita), non con un "adesso dovrebbe andare"
 - Un ambiente dove un fermo blocca il servizio al pubblico: si diagnostica in fretta e si spiega a chi non è tecnico
 - Il rapporto quotidiano con un fornitore IT esterno, da entrambi i lati del ticket
-- L'abitudine a lavorare dentro procedure controllate e tracciate, con dati che non possono uscire
+- L'abitudine a lavorare dentro procedure controllate e tracciate, con dati che non possono uscire.
+
+
+
